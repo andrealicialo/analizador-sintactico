@@ -1,4 +1,4 @@
-# Actividad 9 - Analizadores Sintácticos Descendentes
+Analizadores Sintácticos Descendentes
 
 Práctica de la materia Tecnología de Compiladores.
 
